@@ -1,0 +1,17 @@
+{
+    "name": "FrankTung/WechatJSSDK",
+    "type": "library",
+    "description": "Wechat JSSDK",
+    "authors": [
+        {
+            "name": "Wechat Team",
+        },
+        {
+            "name": "FrankTung",
+            "email": "frantung7@gmail.com"
+        },
+    ],
+    "autoload": {
+        "psr-4": {"WechatJSSDK\\": "WechatJSSDK/"}
+    }
+}
